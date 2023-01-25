@@ -2,3 +2,7 @@ Group Name -
 
 Ashraf Syed
 	- Python, Java, Spark, Scala, etc
+
+
+Deepna Thalanki
+	- Golang, Java, AWS, REST APIs, HTML, CSS, Javascript, NodeJS, MySQL, MongoDB, etc
