@@ -6,3 +6,6 @@ Ashraf Syed
 
 Deepna Thalanki
 	- Golang, Java, AWS, REST APIs, HTML, CSS, Javascript, NodeJS, MySQL, MongoDB, etc
+	
+Vamsi venkat manepalli
+        - python, html, css
