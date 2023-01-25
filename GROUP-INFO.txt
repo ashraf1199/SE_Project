@@ -6,3 +6,7 @@ Ashraf Syed
 
 Deepna Thalanki
 	- Golang, Java, AWS, REST APIs, HTML, CSS, Javascript, NodeJS, MySQL, MongoDB, etc
+	
+
+Raghu Vamsi Kondapalli 
+	- Python, HTML, CSS, MySQL, Java
