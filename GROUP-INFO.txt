@@ -9,3 +9,7 @@ Deepna Thalanki
 	
 Vamsi venkat manepalli
         - python, html, css
+
+SaiVishwak Jadala
+	- Java, React JS, HTML, CSS, MySql etc
+
