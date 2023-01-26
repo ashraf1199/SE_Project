@@ -9,3 +9,6 @@ Deepna Thalanki
 
 SaiVishwak Jadala
 	- Java, React JS, HTML, CSS, MySql etc
+	
+Padmini Kuchukulla
+	- Java, Python, C, C++, HTML, CSS, MySQL, Spark, Scala
