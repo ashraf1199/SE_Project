@@ -8,7 +8,11 @@ Deepna Thalanki
 	- Golang, Java, AWS, REST APIs, HTML, CSS, Javascript, NodeJS, MySQL, MongoDB, etc
 
 SaiVishwak Jadala
-	- Java, React JS, HTML, CSS, MySql etc
+   - Java, React JS, HTML, CSS, MySql etc
 
 Vamsi venkat manepalli
         - python, html, css
+
+Raghu Vamsi Kondapalli
+	- Java, Python, HTML, CSS, MySQL etc
+ main
