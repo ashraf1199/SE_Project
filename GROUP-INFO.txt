@@ -12,3 +12,12 @@ SaiVishwak Jadala
 	
 Padmini Kuchukulla
 	- Java, Python, C, C++, HTML, CSS, MySQL, Spark, Scala
+
+
+Vamsi venkat manepalli
+        - python, html, css
+
+Raghu Vamsi Kondapalli
+	- Java, Python, HTML, CSS, MySQL etc
+ main
+
