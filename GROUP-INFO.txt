@@ -1,4 +1,4 @@
-Group Name - 
+Group Name - Penguins
 
 Ashraf Syed
 	- Python, Java, Spark, Scala, etc
@@ -15,4 +15,7 @@ Vamsi venkat manepalli
 
 Raghu Vamsi Kondapalli
 	- Java, Python, HTML, CSS, MySQL etc
+
+Abhijith Reddy Mandagiri
+	- Java, Springboot, REST APIs, MySQL, HTML, CSS, etc
  main
