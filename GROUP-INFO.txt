@@ -9,3 +9,6 @@ Deepna Thalanki
 
 SaiVishwak Jadala
 	- Java, React JS, HTML, CSS, MySql etc
+
+Vamsi venkat manepalli
+        - python, html, css
