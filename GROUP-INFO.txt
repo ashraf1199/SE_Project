@@ -1,4 +1,4 @@
-Group Name - 
+Group Name - Penguins
 
 Ashraf Syed
 	- Python, Java, Spark, Scala, etc
@@ -6,3 +6,21 @@ Ashraf Syed
 
 Deepna Thalanki
 	- Golang, Java, AWS, REST APIs, HTML, CSS, Javascript, NodeJS, MySQL, MongoDB, etc
+
+SaiVishwak Jadala
+	- Java, React JS, HTML, CSS, MySql etc
+	
+Padmini Kuchukulla
+	- Java, Python, C, C++, HTML, CSS, MySQL, Spark, Scala
+
+
+Vamsi venkat manepalli
+        - python, html, css
+
+Raghu Vamsi Kondapalli
+	- Java, Python, HTML, CSS, MySQL etc
+
+Abhijith Reddy Mandagiri
+	- Java, Springboot, REST APIs, MySQL, HTML, CSS, etc
+ main
+
