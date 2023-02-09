@@ -1,10 +1,10 @@
 Computerization of Library Activities
 
-Folder Structure – 
+Folder Structure √ê 
 
-src – The source code 
-docs – Planning Documents
-meeting-minutes – Minutes of meeting for every team meeting
-reports – Project reports for every deliverable
+src - The source code, 
+docs - Planning Documents,
+meeting-minutes - Minutes of meeting for every team meeting,
+reports - Project reports for every deliverable
 
 
