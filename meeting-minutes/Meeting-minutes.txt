@@ -13,6 +13,30 @@ Description -
 
 
 Meeting 2
-Date -
-Time - 
+Date - 2/7/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
 Description - 
+	- Explored the various libraries available for the backend and frontend technologies
+	- Decided on the core functionalities
+	- Understood the pros and cons of using github
+	
+
+Meeting 3
+Date - 2/14/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Discussed and installed gitbash on laptops
+	- Divided the structure into multiple sub systems
+	- Assigned sub system to individuals for analysis of requirements
+	
+Meeting 4
+Date - 2/21/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Assigned components of the deliverables
+	- Analysed the hardware & software requirements
+	- Understood the interfaces dependency in the project
+	
