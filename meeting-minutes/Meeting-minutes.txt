@@ -40,3 +40,14 @@ Description -
 	- Analysed the hardware & software requirements
 	- Understood the interfaces dependency in the project
 	
+
+Meeting 5
+Date - 2/24/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Discussed various requirements needed for the project
+	- Assigned tasks to eachother for Deliverable 2
+	- Planned what tasks are to be acheived for each development phase
+	
+	
