@@ -49,5 +49,34 @@ Description -
 	- Discussed various requirements needed for the project
 	- Assigned tasks to eachother for Deliverable 2
 	- Planned what tasks are to be acheived for each development phase
+
+Meeting 6
+Date - 3/2/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Brainstormed for all components and tasks for phase 1 deliverable
+	- Assigned tasks to eachother for Deliverable 3
+	- Made deadline for next meet updates for keeping track of work completed
+
+Meeting 7
+Date - 3/9/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Shared updates of work completed from the last meet
+	- Each member worked on their respective html files for deliverable.
+	- Discussed on potential improvements and inquired of any queries and the path way for further taks.
+	- Finalised to complete all tasks and complete the major part of the phase by next deadline 
+
+Meeting 8
+Date - 3/16/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Took updates for the final tasks from the previous task divisions.
+	- Verified all html files and their workings and worked on validation of student and admin login.  
+	- Resolved any issues recurring to phase 1
+	- Planned and divided work writing documents for deliverable 3. 
 	
 	
