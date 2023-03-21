@@ -4,6 +4,10 @@ Folder Structure -
 
 SE_Project/src - The source code 
 
+SE_Project/src/static/images - contains the images for developing the front end
+
+SE_Project/src/templates - This folder has all the HTML files for the project front-end
+
 SE_Project/docs - Planning Documents
 
 SE_Project/meeting-minutes/Meeting-minutes.txt - Minutes of meeting for every team meeting
