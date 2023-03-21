@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+<style media="screen">
+table.redTable {
+border: 2px solid #A40808;
+background-color: #EEE7DB;
+width: 100%;
+text-align: center;
+border-collapse: collapse;
+}
+table.redTable td, table.redTable th {
+border: 1px solid #AAAAAA;
+padding: 3px 2px;
+}
+table.redTable tbody td {
+font-size: 13px;
+}
+table.redTable tr:nth-child(even) {
+background: #F5C8BF;
+}
+table.redTable thead {
+background: #A40808;
+}
+table.redTable thead th {
+font-size: 19px;
+font-weight: bold;
+color: #FFFFFF;
+text-align: center;
+border-left: 2px solid #A40808;
+}
+table.redTable thead th:first-child {
+border-left: none;
+}
+
+table.redTable tfoot {
+font-size: 13px;
+font-weight: bold;
+color: #FFFFFF;
+background: #A40808;
+}
+table.redTable tfoot td {
+font-size: 13px;
+}
+table.redTable tfoot .links {
+text-align: right;
+}
+table.redTable tfoot .links a{
+display: inline-block;
+background: #FFFFFF;
+color: #A40808;
+padding: 2px 8px;
+border-radius: 5px;
+}
+</style>
+  </head>
+  <body>
+    {% include "navbarstudent.html" %}
+    <br>
+    <br>
+    <h3 class="p-3 mb-2 bg-primary text-white" style = 'font-size: 50px;text-align:center;'>Available Book in Library !</h3>
+    <br>
+    <form method="get" action="/search">
+        <input type="search" placeholder= "Enter search value" aria-label="Search" name="query" id="search">
+        <button type="submit"><i class="fa fa-microphone"></i></button>
+        <button class="btn btn-primary btn-lg" type="submit">Search</button>
+    </form>
+
+{% if li%}
+    <table class="redTable">
+    <thead>
+    <tr>
+        <th>Book Name</th>
+        <th>Author</th>
+        <th>ISBN</th>
+        <th>Category</th>
+        <th>No of Copies</th>
+        <th>Copies Issued</th>
+    </tr>
+    </thead>
+    <tfoot>
+    <tr>
+    <td colspan="6" rowspan="6">
+    <div class="links"></div>
+    </td>
+    </tr>
+    </tfoot>
+    <tbody>
+      {% for t in li %}
+        <tr>
+          <td>{{t.0}}</td>
+          <td>{{t.1}}</td>
+          <td>{{t.2}}</td>
+          <td>{{t.3}}</td>
+          <td>{{t.4}}</td>
+          <td>{{t.5}}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+    </table>
+{%else%}
+<h1>Have 0 book</h1>
+{%endif%}
+
+
+<br><br><br><br><br><br><br><br><br>
+    {% include "footer.html" %}
+  </body>
+</html>
