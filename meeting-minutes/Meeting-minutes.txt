@@ -66,7 +66,7 @@ Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak
 Description - 
 	- Shared updates of work completed from the last meet
 	- Each member worked on their respective html files for deliverable.
-	- Discussed on potential improvements and inquired of any queries and the path way for further taks.
+	- Discussed on potential improvements and inquired of any queries and the path way for further tasks.
 	- Finalised to complete all tasks and complete the major part of the phase by next deadline 
 
 Meeting 8
@@ -78,5 +78,34 @@ Description -
 	- Verified all html files and their workings and worked on validation of student and admin login.  
 	- Resolved any issues recurring to phase 1
 	- Planned and divided work writing documents for deliverable 3. 
+
+
+Meeting 9
+Date - 3/23/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Started working on phase 2 of the project
+	- Divided backend tasks to everyone
+	- Discussed about the code inspection review session
 	
+
+Meeting 10
+Date - 3/30/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Discussed on the current developments of the projects
+	- Resolved the challenges faced by the IDE
+	- Implemented stakeholders requirements
+	- Divided tasks for Deliverable 4
+
+Meeting 11
+Date - 4/06/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Combinig everyone's work for Deliverable 4
+	- Worked on report for the deliverable 4
 	
+
