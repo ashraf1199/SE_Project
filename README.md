@@ -23,3 +23,15 @@ SE_Project/Note-deliverable-2 - This is the plain text file which contains the n
 SE_Project/Note-deliverable-3 - This is the plain text file which contains the notes for Deliverable 3
 
 SE_Project/inspection-code-penguins.txt- This is a plain text file which contains the Inspection code
+
+
+
+SE_Project/Note-deliverable-4 - This is the plain text file which contains the notes for Deliverable 4
+
+SE_Project/src/OnlineLibraryManagementSystem - This folder acts as controller for the model to work
+
+SE_Project/src/accounts - This folder has all the required controllers and migrations required to build the project
+
+SE_Project/src/db.sqlite3 - This SQLITE3 file contains the database integrity
+
+SE_Project/src/manage.py - This python file is the most important file because whole project execution depends on this
