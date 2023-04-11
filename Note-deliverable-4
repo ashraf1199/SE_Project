@@ -1,3 +1,14 @@
-
 Report for deliverable 4 is in the below location - 
 SE_Project/Reports/Penguins - Deliverable - 4
+
+Folder that acts as controller for the model to work is in the below location -
+SE_Project/src/OnlineLibraryManagementSystem 
+
+Folder that has all the required controllers and migrations required to build the project is in the below location - 
+SE_Project/src/accounts 
+
+SQLITE3 file that contains the database integrity is in the below location
+SE_Project/src/db.sqlite3 
+
+Python file that is the most important file because whole project execution depends on this
+SE_Project/src/manage.py 
