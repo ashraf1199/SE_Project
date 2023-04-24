@@ -87,63 +87,41 @@
     	}
     </style>
 
-
   </head>
   <body>
-   
+    {% include "navbar.html" %}
+    {% for error in form.errors %}
         <div class="alert alert-danger mb-0 alert-dismissible fade show" role="alert" >
             <strong>Message:  </strong> Please enter a correct username and password. Note that both fields may be case-sensitive.
             <p style="float: right"><button type="button" class="btn-close" data-dismiss="alert" aria-label="Close">&times;</button></p>
             <!-- <a href="#" class="Close" data-dismiss="alert">&times;</a> -->
         </div>
-    
+    {% endfor %}
     <br>
 <center><h3 style=" margin-bottom: 0px;"class = 'alert alert-success'>Login As Admin!</h3></center>
     <div class="signup-form">
-        <form  method="post" class="form-horizontal" id="login-form">
+        <form  method="post" class="form-horizontal">
 
     			<center><h2>Admin Login</h2></center>
 
-
+          {% csrf_token %}
+            {% for field in form %}
             <div class="form-group">
-              <label class="control-label col-xs-4">Username</label>
+              <label class="control-label col-xs-4">{{ field.label_tag }}</label>
               <div class="col-xs-8">
-               <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Username"><br><br>
+              {{ field }}
                </div>
             </div>
-
-	    <div class="form-group">
-              <label class="control-label col-xs-4">Password</label>
-              <div class="col-xs-8">
-              <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password"><br><br>
-               </div>
-            </div>
-
-    		<div class="form-group">
+            {% endfor %}
+            <div class="form-group">
     			<div class="col-xs-8 col-xs-offset-4">
-            <button type="submit" class="btn btn-primary btn-lg" value="Login" id="login-form-submit">Login</button>
+            <button type="submit" class="btn btn-primary btn-lg">Login</button>
     			</div>
     		</div>
         </form>
     	<div class="text-center">Do not have account? <a href="adminsignup">Signup here</a></div>
     </div>
-    <script>
-        const loginForm = document.getElementById("login-form");
-        const loginButton = document.getElementById("login-form-submit");
-    
-        loginButton.addEventListener("click", (e) => {
-            e.preventDefault();
-            const username = loginForm.username.value;
-            const password = loginForm.password.value;
-    
-            if (username === "admin" && password === "admin") {
-                alert("You have successfully logged in.");
-                window.location.href = "afterlogin.html";
-            } else {
-                alert("Invalid username or password. Please try again.");
-            }
-        });
-    </script>
-     
+
+    {% include "footer.html" %}
   </body>
 </html>

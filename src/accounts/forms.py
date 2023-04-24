@@ -29,4 +29,3 @@ class IssuedBookForm(forms.Form):
                                    to_field_name="isbn", label='Name and Isbn')
     enrollment2 = forms.ModelChoiceField(queryset=models.StudentExtra.objects.all(), empty_label="Name and enrollment",
                                          to_field_name='enrollment', label='Name and enrollment')
-
