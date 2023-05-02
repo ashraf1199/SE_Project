@@ -109,3 +109,22 @@ Description -
 	- Worked on report for the deliverable 4
 	
 
+Meeting 12
+Date - 4/20/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Starting working on communication between frontend and backend
+	- Understood the REST Apis concept
+	- Faced new challenges with backend and resolved them
+	- Discussed and assigned tasks for deliverable 5
+	
+Meeting 13
+Date - 4/27/23
+Time - 9 pm
+Attendees - Deepna, Ashraf, Raghu, Padmini, Abhijith, Vamsi, Vishwak 
+Description - 
+	- Combinig everyone's work for Deliverable 5
+	- Worked on report for the deliverable 5
+	- Made sure end product is working as expected
+	- Worked on testcases and unitcases
