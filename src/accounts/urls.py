@@ -20,7 +20,7 @@ urlpatterns = [
     path('viewbook', views.viewbook_view),
     path('studentviewbook', views.student_viewbook_view),
 
-    #path('search', views.search_view, name='search'),
+    path('search', views.search_view, name='search'),
 
     path('issuebook', views.issuebook_view),
     path('viewissuedbook', views.viewissuedbook_view),
