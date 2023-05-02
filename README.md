@@ -35,3 +35,7 @@ SE_Project/src/accounts - This folder has all the required controllers and migra
 SE_Project/src/db.sqlite3 - This SQLITE3 file contains the database integrity
 
 SE_Project/src/manage.py - This python file is the most important file because whole project execution depends on this
+
+
+SE_Project/Note-deliverable-5 - This is the plain text file which contains the notes for Deliverable 5
+
